@@ -1,0 +1,18 @@
+[
+  {
+    "title": "App Development",
+    "description": "Crafting user-friendly Android apps tailored to your needs."
+  },
+  {
+    "title": "Code Optimization",
+    "description": "Enhancing app performance through efficient code practices."
+  },
+  {
+    "title": "UI/UX Design",
+    "description": "Creating visually appealing and intuitive app interfaces."
+  },
+  {
+    "title": "Testing & Debugging",
+    "description": "Thoroughly testing and resolving issues for robust apps."
+  }
+]

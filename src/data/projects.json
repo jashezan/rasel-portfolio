@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Heal O Chat",
+    "img": "https://raw.githubusercontent.com/vatsalkesarwani12/Heal-O-Chat/master/app/src/main/res/drawable/doodle.png",
+    "desc": "Heal-O-Chat is a Social Media Application for people who have been feeling less motivated in life or are losing hope. This platform allows users to chat with people and share their thoughts and feelings with each other and thereby let go of stress, anxiety, and depression that they've been feeling for long.",
+    "url": "https://github.com/vatsalkesarwani12/Heal-O-Chat"
+  },
+  {
+    "title": "Musify",
+    "img": "https://raw.githubusercontent.com/gokadzev/Musify/master/repository_files/Musify-banner.png",
+    "desc": "Unlock Music's Full Potential: Stream and Download with Ease, All in One App!",
+    "url": "https://github.com/gokadzev/Musify"
+  },
+  {
+    "title": "Training Tracker",
+    "img": "https://raw.githubusercontent.com/choubari/Training-Tracker/master/Screenshots/banner.jpg",
+    "desc": "An android app to manage trainings between a coach and his team members.",
+    "url": "https://github.com/choubari/Training-Tracker"
+  },
+  {
+    "title": "Weather App",
+    "img": "https://raw.githubusercontent.com/bkhezry/weather/master/assets/screenshot-2.png",
+    "desc": "Weather app with OpenWeatherMap API.",
+    "url": "https://github.com/bkhezry/weather"
+  }
+]

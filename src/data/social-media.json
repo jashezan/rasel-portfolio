@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://github.com/rasel-093",
+    "icon": "https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF",
+    "name": "github"
+  },
+  {
+    "url": "",
+    "icon": "https://devicon-website.vercel.app/api/twitter/original.svg",
+    "name": "twitter"
+  },
+  {
+    "url": "https://www.linkedin.com/in/rasel093/",
+    "icon": "https://devicon-website.vercel.app/api/linkedin/original.svg",
+    "name": "linkedin"
+  },
+  {
+    "url": "https://www.facebook.com/rasel3093",
+    "icon": "https://devicon-website.vercel.app/api/facebook/original.svg",
+    "name": "facebook"
+  }
+]
